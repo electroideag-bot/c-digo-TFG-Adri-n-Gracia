@@ -5,8 +5,6 @@ Funciones auxiliares comunes a las tres fases del análisis: distancias
 geográficas, aproximación de la distancia por carretera y el reparto por
 gravedad que define la captación efectiva.
 
-TFG - Recomendación de ubicación y previsión de facturación de una nueva
-tienda Obramat en la Comunidad de Madrid.
 """
 
 import numpy as np
